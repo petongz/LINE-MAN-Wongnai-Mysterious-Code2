@@ -19,6 +19,8 @@ The winner will be determined by the fastest submissions, awarded through correc
 **var whatIsIt string**
 **secret := "CYtZBsWZaZliYZocWLZlXuZZYWYeYXZsXeZXtXWpXeRYYYd!ZnYeWXoYXasnX,WXWrWPoAdWesnciGenWr"**
 
+**answer := "ConnectLocalBusiness,GreatPeopleAndRiders!"**
+
 
 📍 **Hint : Sometimes the high frequency of characters are meaningless. You may have to zigzag walk to reach your destination.**
 
